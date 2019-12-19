@@ -149,7 +149,7 @@ GEM
       mini_portile2 (~> 2.0.0.rc2)
     orm_adapter (0.5.0)
     phantomjs (2.1.1.0)
-    rack (1.6.4)
+    rack (1.6.12)
     rack-protection (1.5.3)
       rack
     rack-test (0.6.3)
@@ -278,7 +278,7 @@ DEPENDENCIES
   less-rails
   minitest
   mysql2
-  rails (= 4.2.6)
+  rails
   rspec-rails
   sass-rails (~> 4.0.3)
   sdoc (~> 0.4.0)
